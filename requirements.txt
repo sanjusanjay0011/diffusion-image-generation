@@ -1,1 +1,8 @@
-
+torch
+torchvision
+numpy
+PIL
+matplotlib
+scipy
+yaml
+tqdm
